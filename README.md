@@ -1,29 +1,31 @@
-### Hi there 👋
-
-<canvas id="myCanvasMatrix" width="500" height="200" style="border:1px solid #c3c3c3;">
-Please Upgrade your browser
-</canvas>
-var c1=document.getElementById("myCanvasMatrix");
-var ctx1=c1.getContext("2d");
-var Matrix=function(){
-ctx1.fillStyle='rgba(0,0,0,.05)';
-ctx1.fillRect(0,0,500,500);
-ctx1.fillStyle="#0f0";
-ctx1.fillText('Matrix', Math.random()*(500), Math.random()*(500));
-};
-setInterval(Matrix,30);
-
-<!--
-**AndreMyszko/AndreMyszko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![imagem](https://img.shields.io/badge/Windows-Windows10-blue)
+![imagem](https://img.shields.io/badge/Linux-Ubuntu20.04-purple)
+<br>
+![imagem](https://img.shields.io/badge/IDE-vscode-blue) 
+<br>
+![imagem](https://img.shields.io/badge/JAVA-springboot-green)
+<br>
+![imagem](https://img.shields.io/badge/JS-node-blue)
+![imagem](https://img.shields.io/badge/angular-red)
+![imagem](https://img.shields.io/badge/vue.js-green)
+![imagem](https://img.shields.io/badge/vanilla-yellow)
+<br>
+![imagem](https://img.shields.io/badge/CSS/SASS-Bootstrap-purple)
+<br>
+![imagem](https://img.shields.io/badge/Terminal-Bash-black)
+![imagem](https://img.shields.io/badge/npm-green)
+<br>
+![imagem](https://img.shields.io/badge/DataBAse-Postgre-blue)
+![imagem](https://img.shields.io/badge/MySQL-blue)
+![imagem](https://img.shields.io/badge/MSSQL-blue)
+![imagem](https://img.shields.io/badge/Docker-blue)
+<br>
+![imagem](https://img.shields.io/badge/Data-Python-green)
+![imagem](https://img.shields.io/badge/JupyterNotebook-purple)
+<br>
+![imagem](https://img.shields.io/badge/HTTP-postman-orange)
+![imagem](https://img.shields.io/badge/Swagger-blue)
+![imagem](https://img.shields.io/badge/axios-green)
+<br>
+![imagem](https://img.shields.io/badge/VMs-VMware-green)
+<br>
