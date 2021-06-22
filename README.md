@@ -24,12 +24,13 @@
 ![imagem](https://img.shields.io/badge/JupyterNotebook-purple)
 <br>
 ![imagem](https://img.shields.io/badge/HTTP-postman-orange)
-![imagem](https://img.shields.io/badge/Swagger-blue)
+![imagem](https://img.shields.io/badge/swagger-blue)
 ![imagem](https://img.shields.io/badge/axios-green)
 <br>
 ![imagem](https://img.shields.io/badge/VMs-VMware-green)
 <br>
 ![imagem](https://img.shields.io/badge/Cloud-Heroku-purple)
+![imagem](https://img.shields.io/badge/Cloud-Vercel-purple)
 ![imagem](https://img.shields.io/badge/AWS-blue)
 <br>
 
