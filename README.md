@@ -6,7 +6,7 @@
   
 <br>  
   
-![Snake animation](https://github.com/AndreMyszko/AndreMyszko/blob/output/github-contribution-grid-snake.svg)
+![imagem](https://github.com/AndreMyszko/AndreMyszko/blob/output/github-contribution-grid-snake.svg)
   
 <br>
   
