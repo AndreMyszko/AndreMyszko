@@ -30,7 +30,7 @@
 ![imagem](https://img.shields.io/badge/VMs-VMware-green)
 <br>
 ![imagem](https://img.shields.io/badge/Cloud-Heroku-purple)
-![imagem](https://img.shields.io/badge/Cloud-Vercel-purple)
+![imagem](https://img.shields.io/badge/Vercel-black)
 ![imagem](https://img.shields.io/badge/AWS-blue)
 <br>
 
