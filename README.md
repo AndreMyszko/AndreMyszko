@@ -1,5 +1,5 @@
 <div align="center">
-<p align="centre"><b>Visitas</b></p>  
+<p align="centre"><b>Visits</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{AndreMyszko}/count.svg" /></p> 
 </div>
 
