@@ -10,6 +10,7 @@
 
 <br>
 
+<div class="center">
 ![imagem](https://img.shields.io/badge/Windows-Windows10-blue)
 ![imagem](https://img.shields.io/badge/Linux-Ubuntu20.04-purple)
 <br>
@@ -44,5 +45,5 @@
 ![imagem](https://img.shields.io/badge/Cloud-Heroku-purple)
 ![imagem](https://img.shields.io/badge/Vercel-black)
 ![imagem](https://img.shields.io/badge/AWS-blue)
-<br>
+</div>
 
