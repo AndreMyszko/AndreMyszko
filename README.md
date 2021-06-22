@@ -57,6 +57,6 @@
 ![imagem](https://img.shields.io/badge/GitHub-black)
 ![imagem](https://img.shields.io/badge/Trello-purple)
 <br>
-![imagem](https://img.shields.io/badge/Comunity-DigitalInnovationOne-yellow)
-![imagem](https://img.shields.io/badge/CentroUniversitarioUnibrasil-yellow)
+![imagem](https://img.shields.io/badge/Comunity-DigitalInnovationOne-orange)
+![imagem](https://img.shields.io/badge/CentroUniversitarioUnibrasil-blue)
 ![imagem](https://img.shields.io/badge/StackOverFlow-orange)
