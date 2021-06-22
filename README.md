@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/AndreMyszko">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=AndreMyszko&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMyszko&&layout=compact&hide=shell&theme=blue-green"/>
+  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=AndreMyszko&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMyszko&&layout=compact&hide=shell&theme=dark"/>
 </div>
   
 <br>
