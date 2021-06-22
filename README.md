@@ -51,3 +51,12 @@
 ![imagem](https://img.shields.io/badge/Cloud-Heroku-purple)
 ![imagem](https://img.shields.io/badge/Vercel-black)
 ![imagem](https://img.shields.io/badge/AWS-blue)
+<br>
+![imagem](https://img.shields.io/badge/Squad-MicrosoftTeams-purple)
+![imagem](https://img.shields.io/badge/AzureDevops-blue)
+![imagem](https://img.shields.io/badge/GitHub-black)
+![imagem](https://img.shields.io/badge/Trello-purple)
+<br>
+![imagem](https://img.shields.io/badge/Comunity-DigitalInnovationOne-yellow)
+![imagem](https://img.shields.io/badge/CentroUniversitarioUnibrasil-yellow)
+![imagem](https://img.shields.io/badge/StackOverFlow-orange)
