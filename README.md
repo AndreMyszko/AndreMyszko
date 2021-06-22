@@ -3,13 +3,10 @@
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=AndreMyszko&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreMyszko&&layout=compact&hide=shell&theme=dark"/>
 </div>
-  
-<br>
-  
+<br>  
 ![Snake animation](https://github.com/AndreMyszko/AndreMyszko/blob/output/github-contribution-grid-snake.svg)
-
 <br>
-
+<div align="center">
 ![imagem](https://img.shields.io/badge/Windows-Windows10-blue)
 ![imagem](https://img.shields.io/badge/Linux-Ubuntu20.04-purple)
 <br>
@@ -44,3 +41,4 @@
 ![imagem](https://img.shields.io/badge/Cloud-Heroku-purple)
 ![imagem](https://img.shields.io/badge/Vercel-black)
 ![imagem](https://img.shields.io/badge/AWS-blue)
+</div>
