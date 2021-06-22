@@ -44,3 +44,8 @@
 ![imagem](https://img.shields.io/badge/Cloud-Heroku-purple)
 ![imagem](https://img.shields.io/badge/Vercel-black)
 ![imagem](https://img.shields.io/badge/AWS-blue)
+
+<div align="center">
+<p align="centre"><b>Visitas</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{AndreMyszko}/count.svg" /></p> 
+</div>
