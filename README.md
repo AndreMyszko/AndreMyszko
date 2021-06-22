@@ -6,7 +6,6 @@
 <br>  
 ![Snake animation](https://github.com/AndreMyszko/AndreMyszko/blob/output/github-contribution-grid-snake.svg)
 <br>
-<div align="center">
 ![imagem](https://img.shields.io/badge/Windows-Windows10-blue)
 ![imagem](https://img.shields.io/badge/Linux-Ubuntu20.04-purple)
 <br>
@@ -41,4 +40,3 @@
 ![imagem](https://img.shields.io/badge/Cloud-Heroku-purple)
 ![imagem](https://img.shields.io/badge/Vercel-black)
 ![imagem](https://img.shields.io/badge/AWS-blue)
-</div>
