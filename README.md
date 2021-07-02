@@ -26,6 +26,7 @@
 <br>
 ![imagem](https://img.shields.io/badge/JS-node-blue)
 ![imagem](https://img.shields.io/badge/angular-red)
+![imagem](https://img.shields.io/badge/typescript-blue)
 ![imagem](https://img.shields.io/badge/vue.js-green)
 ![imagem](https://img.shields.io/badge/vanilla-yellow)
 <br>
