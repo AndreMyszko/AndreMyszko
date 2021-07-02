@@ -35,10 +35,11 @@
 ![imagem](https://img.shields.io/badge/Terminal-Bash-black)
 ![imagem](https://img.shields.io/badge/npm-green)
 <br>
-![imagem](https://img.shields.io/badge/DataBAse-Postgre-blue)
+![imagem](https://img.shields.io/badge/DataBase-Postgre-blue)
 ![imagem](https://img.shields.io/badge/MySQL-blue)
 ![imagem](https://img.shields.io/badge/MSSQL-blue)
 ![imagem](https://img.shields.io/badge/Docker-blue)
+![imagem](https://img.shields.io/badge/MongoDB-green)
 <br>
 ![imagem](https://img.shields.io/badge/Data-Python-green)
 ![imagem](https://img.shields.io/badge/JupyterNotebook-purple)
